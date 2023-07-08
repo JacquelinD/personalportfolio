@@ -24,10 +24,14 @@ img{
     justify-content: center;
     padding-top: 35px;
 }
+
+
 #one {
     font-size: 20px;
     text-align: center;
-    color:#5C4033
+    color:#5C4033;
+    border: 5px double #5C4033;
+    margin: 100px;
 }
 
 .myclass{
