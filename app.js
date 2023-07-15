@@ -8,10 +8,10 @@ z = 4;
 
 // console.log(x);
 
-const n = {
-    firstname:"Jacquelin",
-    lastname:"Doran"
-}
+// const n = {
+//     firstname:"Jacquelin",
+//     lastname:"Doran"
+// }
 
 // console.log(n);
 
