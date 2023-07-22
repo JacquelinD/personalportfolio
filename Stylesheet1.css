@@ -63,8 +63,13 @@ img{
     display: inline;
 } */
 
-.display-style{
+#display-style{
     display: flex;
     flex-direction: row;
-    justify-content: right;
+    justify-content: center;
+}
+
+#button{
+    background-color: pink;
+    margin-left: 50%;
 }
